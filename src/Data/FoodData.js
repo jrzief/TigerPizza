@@ -47,6 +47,12 @@ export const foodItems = [
     img: "/img/black-olives-cheese-corn.jpg",
     section: "Pizza",
     price: 4.0
+  },
+  {
+    price: 1,
+    name: "Healthy Drinks",
+    section: "Drinks",
+    choices: ["Mountain H20", "Gremlin", "OJ Crush", " Unsweetened Lemonade"]
   }
 ];
 
